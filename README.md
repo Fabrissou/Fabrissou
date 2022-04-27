@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Daniil
+#### I am a trainee java developer
+![I am a trainee java developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Fabrissou/Fabrissou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year student of St. Petersburg Polytechnic University, majoring in Computer Science and Computer Engineering. I am studying java and popular frameworks. I have a great motivation and desire to start working in the field of software development.
 
-Here are some ideas to get you started:
+Skills: Java / Spring / Hibernate / Maven / MySQL, PostgreSQL / Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
